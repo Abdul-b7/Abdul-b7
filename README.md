@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullahi</h1>
+<h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">I'm a Inspired web developer and a computer science student</h3>
 
 # 💫 About Me:
