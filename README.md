@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Inspired web developer and a computer science student</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on: - Birthday Gift Generator website, My school Project<br>👯 I’m looking to collaborate on: - Web development, mobile apps development <br>🌱 I’m currently learning: - JavaScript, React, React-Native <br>💬 Ask me about: - Web development or anything I would like to help <br>📫 How to reach me: - Abdullahibello9x9@gmail.com<br>😄 Pronouns: -He/His<br>⚡ Fun fact:- I Love F1 Races<br>
+🔭 I’m currently working on: - Birthday Gift Generator website, My school Project<br>👯 I’m looking to collaborate on: - Web development, mobile apps development <br>🌱 I’m currently learning: - JavaScript, React, React-Native <br>💬 Ask me about: - Web development or anything I would like to help <br>📫 How to reach me: - Abdullahibello9x9@gmail.com<br>😄 Pronouns: - He/His<br>⚡ Fun fact: - I Love F1 Races<br>
 
 
 ## 🌐 Socials:
